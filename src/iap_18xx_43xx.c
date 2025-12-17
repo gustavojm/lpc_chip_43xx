@@ -1,3 +1,5 @@
+#pragma GCC diagnostic warning "-Wincompatible-pointer-types"
+
 /*
  * @brief Common FLASH IAP support functions
  *
